@@ -286,9 +286,10 @@ cat > "$TEMP_FILE" <<EOF
         <h3>Automatic update test</h3>
 
         <p>
-            I opened the page and checked the time.
-            I waited and opened the page again.
-            The time had changed.
+            I checked two automatic updates:<br>
+    2026-11-11 15:56:01 UTC<br>
+    2026-11-11 15:57:01 UTC<br>
+    The report updated automatically after one minute.
         </p>
 
         <h3>Reboot test</h3>
